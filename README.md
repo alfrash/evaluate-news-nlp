@@ -25,11 +25,11 @@ In the file .env replace my api key with yours
 
 ### Deploying
 
-1- npm install
+1- `npm install`
 
 ## 2- for dev you need to run two terminals 
-1- "npm run build-dev"
-2- navigate to src/server and run "npm start"
+1- `npm run build-dev`
+2- navigate to src/server and run `npm start`
 
 ## 3- for production
 1- "npm run build-prod"
