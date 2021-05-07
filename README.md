@@ -32,6 +32,6 @@ In the file .env replace my api key with yours
 2- navigate to src/server and run `npm start`
 
 ## 3- for production
-1- "npm run build-prod"
+1- `npm run build-prod`
 
 
