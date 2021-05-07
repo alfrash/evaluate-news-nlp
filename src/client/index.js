@@ -1,7 +1,3 @@
-// require('babel-core/register');
-// require('babel-polyfill');
-// import 'regenerator-runtime/runtime';
-
 import { handleSubmit } from './js/formHandler'
 import './styles/base.scss'
 import './styles/resets.scss'
